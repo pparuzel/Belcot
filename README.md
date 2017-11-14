@@ -1,5 +1,5 @@
 # Belcot
-Instant Messaging Client like Facebook Messanger  
+Instant Messaging Client similar to Facebook Messenger  
 ### Launching
 #### Server-side (Terminal-SERVER)
 ``` cd exec && java pl.belcot.Server 6669 ```  
